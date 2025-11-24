@@ -1,3 +1,4 @@
+
 # 🏆 Points Claiming App (MERN Stack)
 
 This is a full-stack web application that allows users to register, claim random points, and view a dynamic leaderboard. Built with **Vite + ReactJS** on the frontend and **Node.js + Express + MongoDB** on the backend.
